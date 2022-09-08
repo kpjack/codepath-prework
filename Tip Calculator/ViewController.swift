@@ -14,11 +14,13 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
     
+    @IBOutlet var amountTyped: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
 
     @IBAction func calculateTip(_ sender: Any) {
         // Get bill amount from the text field
