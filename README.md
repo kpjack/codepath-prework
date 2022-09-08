@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-- Challanges I had while creating the basic of the app is getting used how swift works. Later on when I was creating a repository for the assignment, I made a duplicate to share to GitHub and it was renamed with copy at the end. It took me a long while to figure out how to fix it when all I could have done is removed the "copy" on the title of the projcet. Lastly, understanding how to submit the work was time consuming as well
+- Challanges I had while creating the basic of the app is getting used how swift works. Later on when I was creating a repository for the assignment, I made a duplicate to share to GitHub and it was renamed with copy at the end. It took me a long while to figure out how to fix it when all I could have done is removed the "copy" on the title of the projcet. Lastly, understanding how to save everything to the repo to be ready to submit the work was time consuming as well.
 
 ## License
 
